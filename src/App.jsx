@@ -1,10 +1,12 @@
-import StarRating from "./components/StarRating.jsx";
+// import StarRating from "./components/StarRating.jsx";
+import Header from "./components/Header.jsx";
 
 function App() {
 
   return (
     <>
-      <StarRating />
+      {/* <StarRating /> */}
+      <Header />
     </>
   )
 }
